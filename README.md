@@ -1,2 +1,2 @@
 # Go Crash Course
-Some Golang annotations, code snippets and reminders.
+Some Golang notes, code snippets and reminders.
