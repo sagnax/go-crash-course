@@ -1,2 +1,2 @@
-# go-crash-course
-Go Crash Course
+# Go Crash Course
+Some Golang annotations, code snippets and reminders.
